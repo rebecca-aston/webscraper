@@ -1,2 +1,2 @@
 # webscraper
-Python web scraper
+Python web scraper for the filetype project.
