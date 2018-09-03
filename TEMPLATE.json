@@ -1,0 +1,32 @@
+{
+	"frame-collection": "",
+	"description": "",
+	"date-of-encounter": 0,
+	"encounter-loc-long": 0,
+	"encounter-loc-lat": 0,
+	"author": "",
+	"citation": "",
+	"frames": [
+		{
+			"frame-type": "",
+			"weight":0,
+			"tags":[],
+			"title": "",
+			"description": "",
+			"material": "",
+			"file-name": "",
+			"total-time": 10000, 
+			"history": [
+				{
+					"speculation-scale": "",
+					"date": 0,
+					"loc-long": 0,
+					"loc-lat": 0,
+					"sound":"",
+					"text": "",
+					"citation": ""
+				}
+			]
+		}
+	]	
+}
